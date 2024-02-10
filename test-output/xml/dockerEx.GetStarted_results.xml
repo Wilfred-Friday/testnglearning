@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetStarted"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.073">
+    <properties></properties>
+
+
+
+            <testcase
+                name="downloadButtonValidation"
+                time="0.025"
+                classname="dockerEx.GetStarted">
+            </testcase>
+            <testcase
+                name="learnHowButtonValidation"
+                time="0.019"
+                classname="dockerEx.GetStarted">
+            </testcase>
+            <testcase
+                name="GetStartedButtonTest"
+                time="0.075"
+                classname="dockerEx.GetStarted">
+            </testcase>
+            <testcase
+                name="bannerTest"
+                time="0.954"
+                classname="dockerEx.GetStarted">
+            </testcase>
+</testsuite>

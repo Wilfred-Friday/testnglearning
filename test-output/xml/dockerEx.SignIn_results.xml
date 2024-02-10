@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SignIn"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.419">
+    <properties></properties>
+
+
+
+            <testcase
+                name="signInTestBanner"
+                time="0.025"
+                classname="dockerEx.SignIn">
+            </testcase>
+            <testcase
+                name="signInTestLogo"
+                time="3.394"
+                classname="dockerEx.SignIn">
+            </testcase>
+</testsuite>

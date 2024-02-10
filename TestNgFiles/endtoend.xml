@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="endtoend" verbose="1" >
+    <test name="hompage"   >
+        <classes>
+            <class name="test1_Pkg.Test_one"/>
+        </classes>
+    </test>
+
+    <test name="loginpage"   >
+        <classes>
+            <class name="test1_Pkg.LoginTest"/>
+        </classes>
+    </test>
+</suite>

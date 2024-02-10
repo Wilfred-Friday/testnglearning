@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_Maven_Project"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.167">
+    <properties></properties>
+
+
+
+            <testcase
+                name="pLoginTest"
+                time="0.167"
+                classname="swaglabsdemo.Login">
+            </testcase>
+</testsuite>
